@@ -1,0 +1,16 @@
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\obj\Debug\net5.0\exemploConversaoMoeda.csproj.AssemblyReference.cache
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\obj\Debug\net5.0\exemploConversaoMoeda.GeneratedMSBuildEditorConfig.editorconfig
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\obj\Debug\net5.0\exemploConversaoMoeda.AssemblyInfoInputs.cache
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\obj\Debug\net5.0\exemploConversaoMoeda.AssemblyInfo.cs
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\obj\Debug\net5.0\exemploConversaoMoeda.csproj.CoreCompileInputs.cache
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\bin\Debug\net5.0\exemploConversaoMoeda.exe
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\bin\Debug\net5.0\exemploConversaoMoeda.deps.json
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\bin\Debug\net5.0\exemploConversaoMoeda.runtimeconfig.json
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\bin\Debug\net5.0\exemploConversaoMoeda.runtimeconfig.dev.json
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\bin\Debug\net5.0\exemploConversaoMoeda.dll
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\bin\Debug\net5.0\ref\exemploConversaoMoeda.dll
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\bin\Debug\net5.0\exemploConversaoMoeda.pdb
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\obj\Debug\net5.0\exemploConversaoMoeda.dll
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\obj\Debug\net5.0\ref\exemploConversaoMoeda.dll
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\obj\Debug\net5.0\exemploConversaoMoeda.pdb
+D:\suzan\Documents\gama\aulaCSharp\dotNet\aula04\exemploConversaoMoeda\obj\Debug\net5.0\exemploConversaoMoeda.genruntimeconfig.cache
